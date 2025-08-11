@@ -1,2 +1,2 @@
 # toan
-Toolbag Of an Analytical Nomad
+Studies on various topics and handy CLI that I frequently use
