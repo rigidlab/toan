@@ -7,3 +7,5 @@ Studies on various topics and handy CLI that I frequently use
 - Biomechanics - hiking and basketball
 - Camping
 - Housing
+- Scientific Visualization
+- Various other random topics
